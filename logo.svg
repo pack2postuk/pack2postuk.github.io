@@ -8,6 +8,6 @@
     <polygon points="41.5,26.25 45.5,24.25 45.5,30 41.5,32" fill="#b08a4e"/>
     <path d="M17 34.5l5.5 2.75M17 38.5l3.5 1.75" stroke="#173a34" stroke-width="1.6" stroke-linecap="round" opacity=".55"/>
   </g>
-  <text x="84" y="44" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.6" fill="#173a34">Pack <tspan fill="#b08a4e">2</tspan> Post</text>
-  <text x="86" y="62" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="3.2" fill="#b08a4e">UK · PACK &amp; DISPATCH</text>
+  <text x="84" y="44" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.6" fill="#173a34">Pack <tspan fill="#b08a4e">2</tspan> Post</text>
+  <text x="86" y="62" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="3.2" fill="#b08a4e">UK · PACK &amp; DISPATCH</text>
 </svg>
